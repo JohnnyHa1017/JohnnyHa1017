@@ -3,7 +3,7 @@
 👀 I’m interested in Fullstack Development with a keen focus on Backend technologies!
 
     def quick_details():
-        pronouns = "He / Him"
+        pronouns = "He/ Him"
         location = "Los Angeles, CA"
         timezone = "PST"
         return f"{pronouns} pronouns, located in {location} | {timezone}."
