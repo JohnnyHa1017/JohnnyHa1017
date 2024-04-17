@@ -1,9 +1,16 @@
 # 💫 About Me:
-- 👋 Hey there! I'm __Johnny__, a Fullstack Software Engineer.
-    > Pronouns: He/ Him
-    > 
-    > Los Angeles, Ca | PST
-- 👀 I’m interested in Fullstack Development with a keen focus on Backend technologies!
+## 👋 Hey there! I'm __Johnny__, a Fullstack Software Engineer.
+👀 I’m interested in Fullstack Development with a keen focus on Backend technologies!
+
+    def quick_details():
+        pronouns = "He / Him"
+        location = "Los Angeles, CA"
+        timezone = "PST"
+        return f"{pronouns} pronouns, located in {location} | {timezone}."
+
+    # Call the Function
+    print(quick_details()) # => He/ Him pronouns, located in Los Angeles, CA | PST.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/473607020755288065) 
