@@ -18,7 +18,7 @@
 
 > [Wellfound](https://wellfound.com/u/johnny-ha-1)
 > 
-> [Check out my Portfolio!](https://www.johnnyha.me)
+> [Check out my Portfolio!](https://johnnyha1017.github.io/portfoliov2/)
 > 
 > [E-Mail: johnny.ha.github@gmail.com](mailto:johnny.ha.github@gmail.com)
 
